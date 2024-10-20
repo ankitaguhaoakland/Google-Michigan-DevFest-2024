@@ -1,5 +1,5 @@
 # Google-Michigan-DevFest-2024
-Michigan DevFest is a community organized developer conference run by the Detroit, Ann Arbor, Grand Rapids and Toledo GDGs.
+Michigan DevFest is a community organized developer conference run by the Detroit, Ann Arbor, Grand Rapids and Toledo Google Dveloper Groups.
 
 # Application of Machine Learning Models to Predict Heart Disease
 The backbone of this study is a dataset from a study of heart disease that has been open to the public for many years. The study collects various measurements on patient health and cardiovascular statistics, and of course makes patient identities anonymous. Developing a Machine Learning Predictive Model that could enhance the predictive power of not only historical patient health data but also with present and future patient health data, with less bias and variance in the model, is the need of the day. For more information on the various Heart Diseases, refer to the [Heart Disease Facts, CDC](https://www.cdc.gov/heartdisease/facts.htm#:~:text=Coronary%20Artery%20Disease,killing%20365%2C914%20people%20in%202017.&text=About%2018.2%20million%20adults%20age,have%20CAD%20(about%206.7%25).&text=About%202%20in%2010%20deaths,less%20than%2065%20years%20old.)
